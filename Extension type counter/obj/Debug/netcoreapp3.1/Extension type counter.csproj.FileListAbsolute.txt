@@ -1,0 +1,14 @@
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.exe
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.deps.json
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.runtimeconfig.json
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.runtimeconfig.dev.json
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.dll
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\bin\Debug\netcoreapp3.1\Extension type counter.pdb
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.csproj.AssemblyReference.cache
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.AssemblyInfoInputs.cache
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.AssemblyInfo.cs
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.csproj.CoreCompileInputs.cache
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.dll
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.pdb
+C:\Users\Nubet\source\repos\Extension type counter\Extension type counter\obj\Debug\netcoreapp3.1\Extension type counter.genruntimeconfig.cache
